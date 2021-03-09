@@ -55,13 +55,13 @@ Este site foi construído usando [Minha Steam](https://steamcommunity.com/id/dan
 - Henrique
 - Dantas
 
-e
+and
 
 * Pedro
 * Henrique
 * Dantas
 
-e
+and
 
 1. Pedro
 2. Henrique
@@ -91,7 +91,7 @@ Para criar uma lista de tarefas, insira os itens da lista com um caractere de es
 
 Você pode adicionar emoji à sua escrita digitando: EMOJICODE:.
 
-@octocat: +1: Este PR parece ótimo - está pronto para ser mesclado! : enviá-lo:
+[Código dos emojis](https://gist.github.com/rxaviers/7360908)
 
 
 **Adicione imagens:**
