@@ -18,10 +18,10 @@ Sintaxe básica de escrita e formatação (formatação de texto no github)
 - Tachado: ~~ ~~  ~~texto errado~~
 
 
-- Negrito e itálico aninhado ** ** e _ _ **Este texto é _extremamente_ importante**
+- Negrito e itálico aninhado ** ** e _ _   **Este texto é _extremamente_ importante**
 
 
-- Tudo em negrito e itálico *** *** ***Todo esse texto é importante***
+- Tudo em negrito e itálico *** ***   ***Todo esse texto é importante***
 
 
 
@@ -30,9 +30,9 @@ Citando texto
 
 Você pode citar texto com um>.
 
-Nas palavras de Abraham Lincoln:
+Parafraseando a frase de fulano:
 
-> Perdoe meu francês
+> Olá marilene
 
 
 
@@ -70,7 +70,7 @@ e
 
 Listas aninhadas:
 
-1. Primeiro item da lista
+1. Primeiro item 
    - Primeiro item da lista aninhada
      - Segundo item da lista aninhada
 
@@ -82,9 +82,9 @@ Listas de tarefas:
 
 Para criar uma lista de tarefas, insira os itens da lista com um caractere de espaço seguido por []. Para marcar uma tarefa como concluída, use [x].
 
-- [x] Concluir minhas alterações
-- [] Envie meus commits para o GitHub
-- [] Abra uma solicitação pull
+- [x] Acordar
+- [x] Ligar o PC
+- [] Abrir a Steam
 
 
 Usando emoji
