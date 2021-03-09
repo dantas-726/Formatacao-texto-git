@@ -26,7 +26,7 @@ Sintaxe básica de escrita e formatação (formatação de texto no github)
 
 
 
-Citando texto
+**Citando um texto**
 
 Você pode citar texto com um>.
 
@@ -36,7 +36,7 @@ Parafraseando a frase de fulano:
 
 
 
-Citando código
+**Citando o código**
 
 Alguns comandos básicos do Git são:
 ``
@@ -45,12 +45,12 @@ git add
 git commit
 ``
 
-Use links:
+**Usando links:**
 Este site foi construído usando [Minha Steam](https://steamcommunity.com/id/dantas726).
 
 
 
-Listas
+**Listas**
 - Pedro
 - Henrique
 - Dantas
@@ -68,7 +68,7 @@ e
 3. Dantas
 
 
-Listas aninhadas:
+**Listas aninhadas:**
 
 1. Primeiro item 
    - Primeiro item da lista aninhada
@@ -78,7 +78,7 @@ Listas aninhadas:
 
 
 
-Listas de tarefas:
+**Listas de tarefas:**
 
 Para criar uma lista de tarefas, insira os itens da lista com um caractere de espaço seguido por []. Para marcar uma tarefa como concluída, use [x].
 
@@ -87,12 +87,12 @@ Para criar uma lista de tarefas, insira os itens da lista com um caractere de es
 - [] Abrir a Steam
 
 
-Usando emoji
+**Usando emoji**
 
 Você pode adicionar emoji à sua escrita digitando: EMOJICODE:.
 
 @octocat: +1: Este PR parece ótimo - está pronto para ser mesclado! : enviá-lo:
 
 
-Adicione imagens:
+**Adicione imagens:**
 vá para isues e copie uma imagem para o espaço em branco em seguida copie o link e cole no readme.md
