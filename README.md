@@ -46,7 +46,7 @@ git commit
 ``
 
 Use links:
-Este site foi construído usando [My Steam] (https://steamcommunity.com/id/dantas726).
+Este site foi construído usando [My Steam](https://steamcommunity.com/id/dantas726).
 
 
 
