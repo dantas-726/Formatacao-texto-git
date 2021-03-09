@@ -4,9 +4,9 @@
 
 Sintaxe básica de escrita e formatação (formatação de texto no github)
 
-# O maior título
-## O segundo maior título
-###### O menor título
+# MAIOR
+## DO MEIO
+###### MENOR
 
 
 - Negrito: ** ** ou __ __ comando / controle + b ** Este é o texto em negrito **
