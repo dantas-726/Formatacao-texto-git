@@ -9,19 +9,19 @@ Sintaxe básica de escrita e formatação (formatação de texto no github)
 ###### MENOR
 
 
-- Negrito: ** ** ou __ __ comando / controle + b ** Este é o texto em negrito **
+- Negrito: ** ** ou __ __ comando / ctrl + b   **texto em negrito**
 
 
-- Itálico: * * ou _ _ comando / controle + i * Este texto está em itálico *
+- Itálico: * * ou _ _ comando / ctrl + i *texto está em itálico*
 
 
-- Tachado: ~~ ~~ ~~ Este foi um texto errado ~~
+- Tachado: ~~ ~~  ~~texto errado~~
 
 
-- Negrito e itálico aninhado ** ** e _ _ ** Este texto é _extremamente_ importante **
+- Negrito e itálico aninhado ** ** e _ _ **Este texto é _extremamente_ importante**
 
 
-- Tudo em negrito e itálico *** *** *** Todo esse texto é importante ***
+- Tudo em negrito e itálico *** *** ***Todo esse texto é importante***
 
 
 
