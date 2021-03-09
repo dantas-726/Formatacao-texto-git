@@ -1,7 +1,7 @@
 # Formatacao-texto-git-portugues
 
 **Alguns atalhos para deixar o seu repositório mais organizado**
-[Versão em Inglês](https://github.com/dantas-726/commandline-javaOPG)
+[Versão em Inglês](https://github.com/dantas-726/git-text-formatting)
 
 Sintaxe básica de escrita e formatação (formatação de texto no github)
 
